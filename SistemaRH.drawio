@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-01-27T18:27:40.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VSPKb841Nw31CC2fdYHN" version="20.8.13" type="github">
+  <diagram name="Página-1" id="kO_CLAM9GB-mZyqC8a3d">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3FHG_0MVGl3X_SSBo1SS-3" target="2SSA2TN0ewrVfmOawrAP-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3FHG_0MVGl3X_SSBo1SS-3" target="2SSA2TN0ewrVfmOawrAP-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FHG_0MVGl3X_SSBo1SS-3" value="Usuário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2SSA2TN0ewrVfmOawrAP-1" target="2SSA2TN0ewrVfmOawrAP-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2SSA2TN0ewrVfmOawrAP-1" target="2SSA2TN0ewrVfmOawrAP-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-1" value="Empresa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-2" value="Terceiro" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-5" value="Funcionário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2SSA2TN0ewrVfmOawrAP-6" value="Sócio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RXzyog2OAl4d0vEALOE-1" value="Estagiário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RXzyog2OAl4d0vEALOE-2" value="Jovem Aprendiz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RXzyog2OAl4d0vEALOE-3" value="Assistente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
